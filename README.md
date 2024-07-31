@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Sanasuhela
-- 👀 I’m interested in building new websites
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sanamohammadi1623@gmail.com
 
 <!---
